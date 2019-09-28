@@ -1,4 +1,6 @@
 RESTA
 SUMA
 SUMA Y RESTA
-hola
+Division
+seno
+
