@@ -22,7 +22,7 @@ serie_d = pd.Series([True, False, 12,
                      None, (),[],
                      {"par":"valor"}])
 
-serie_d[3]
+serie_d[3] #12
 #lista de ciudades
 lista_ciudades = ["Ambato","Cuenca", "Loja", "Quito"]
 
@@ -49,19 +49,19 @@ serie_presupuesto_mas_10=serie_valor_ciudad*1.1
 
 #penalizar a Quito
 #bajar 50% a Quito
- serie_valor_ciudad["Quito"] = serie_valor_ciudad["Quito"]*0.5
+serie_valor_ciudad["Quito"] = serie_valor_ciudad["Quito"]*0.5
  
- #
- print ("Lima" in serie_valor_ciudad)
- print ("Loja" in serie_valor_ciudad)
+#
+print ("Lima" in serie_valor_ciudad)
+print ("Loja" in serie_valor_ciudad)
 
 
 #USO DE UNIVERSASL FUNCTIONS EN SERIES,
 # EL RESULTADO ES OTRA SERIES
 #Elevar al cuadrado el presupuesto de todos
- r_square= np.square(serie_valor_ciudad)
- #sacar el seno
- r_sin = np.sin(serie_valor_ciudad)
+r_square= np.square(serie_valor_ciudad)
+#sacar el seno
+r_sin = np.sin(serie_valor_ciudad)
 
 
 
@@ -114,11 +114,26 @@ ciudades_uno.sort_values(ascending=False).tail(2)
 
 
 
+#   0 - 1000 subir 10%
+#1001 - 5000 subir 10%
+#5001 - 2000 subir 15%
+#ciudades_uno[ciudades_uno[<1000]]
 
 
+def calculo(valor):
+    if(valor<=1000):
+        return valor*1.05
+    if(valor>1000 and valor <=5000):
+        return valor*1.1
+    if(valor>5000):
+        return valor*1.15
+        
+ciudad_calculada = ciudades_uno.map(calculo)
+        
 
 
-
+#Where excluye los que cumplen la condicion
+ciudades_uno.where(ciudades_uno<1000,ciudades_uno*1.05)
 
 
 
