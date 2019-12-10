@@ -32,3 +32,41 @@ df4.to_pickle(pathGuardadoCompleto)
 
 df5= pd.read_pickle(pathGuardadoCompleto)
 #
+
+#Practica de carga archivo spss (.sav)
+path_sav="C:\\Users\\PedroW10\\Downloads\\BDD_ENEMDU_2019_06_SPSS\\BDD_ENEMDU_2019_06_SPSS\\201906_EnemduBDD_15anios.sav"
+df1 = pd.read_stata(path_sav);
+#no funcionan 
+# pd.read_sas
+# pd.read_stata
+
+
+#Carga con pyreadstat
+#pip install pyreadstat
+import pyreadstat
+path_sav_1="C:/Users/PedroW10/Downloads/BDD_ENEMDU_2019_06_SPSS/BDD_ENEMDU_2019_06_SPSS/201906_EnemduBDD_15anios.sav"
+df_3, meta = pyreadstat.read_sav(path_sav,apply_value_formats=True)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
