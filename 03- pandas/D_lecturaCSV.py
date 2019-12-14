@@ -81,7 +81,8 @@ import pyreadstat
 
 #CARGA DE DATOS
 #Fuente: https://stackoverflow.com/questions/14647006/is-there-a-python-module-to-open-spss-files
-path_sav="C:\\Users\\PedroW10\\Downloads\\BDD_ENEMDU_2019_06_SPSS\\BDD_ENEMDU_2019_06_SPSS\\201906_EnemduBDD_15anios.sav"
+#path_sav="C:\\Users\\PedroW10\\Downloads\\BDD_ENEMDU_2019_06_SPSS\\BDD_ENEMDU_2019_06_SPSS\\201906_EnemduBDD_15anios.sav"
+path_sav="https://github.com/2019-B-GR1-Python/py-cuasqui-pupiales-pedro-javier/blob/master/Informe1b/201906_EnemduBDD_15anios.sav"
 #Carga con pyreadstat
 df_3, meta = pyreadstat.read_sav(path_sav,apply_value_formats=True)
 
