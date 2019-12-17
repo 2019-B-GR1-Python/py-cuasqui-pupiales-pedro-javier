@@ -118,13 +118,26 @@ worksheet.insert_chart('D2', chart)
 writer.save()
 
 
+#################EXPORTAR DATOS A SQL Y JSON###############################
+import numpy as np
+import pandas as pd
+import os
+import sqlite3
+#Picle full
+path_guardado_bin="C:\\Users\\PedroW10\\Documents\\GitHub\\py-cuasqui-pupiales-pedro-javier\\03- pandas\\data\\artwork_data_full.pickle"
+df5=pd.read_pickle(path_guardado_bin)
+df = df5.iloc[49980:50019,:].copy()
 
+with sqlite3.connect("C:\\Users\\PedroW10\\Documents\\GitHub\\py-cuasqui-pupiales-pedro-javier\\03- pandas\\data\\bdd_artist.db") as conexion:
+    df5.to_sql("py_artistas",conexion) #<-nombre de la tabla 'py_artistas'
 
+#with mysql.connect("C:\\Users\\PedroW10\\Documents\\GitHub\\py-cuasqui-pupiales-pedro-javier\\03- pandas\\data\\bdd_artist.db") as conexion:
+ #   df5.to_sql("py_artistas",conexion) #<-nombre de la tabla 'py_artistas'
 
-
-
-
-
+df5.to_json('C:\\Users\\PedroW10\\Documents\\GitHub\\py-cuasqui-pupiales-pedro-javier\\03- pandas\\data\\artistas.json')
+df.to_json('C:\\Users\\PedroW10\\Documents\\GitHub\\py-cuasqui-pupiales-pedro-javier\\03- pandas\\data\\artistas1.json')
+#agrupar las filas en un solo objeto
+df.to_json('C:\\Users\\PedroW10\\Documents\\GitHub\\py-cuasqui-pupiales-pedro-javier\\03- pandas\\data\\artistas_tabla.json', orient='table')
 
 
 
