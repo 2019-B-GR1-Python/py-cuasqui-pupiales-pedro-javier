@@ -82,11 +82,7 @@ def llenar_valores_vacios(series,tipo):
             print(conteo_unidades.idxmax())
             series_valores_llenos = series.fillna(conteo_unidades.idxmax())
             return series_valores_llenos
-        if(tipo =="value_counts_1"):
-            conteo_unidades = series.value_counts()       
-            print(conteo_unidades.idxmax())
-            series_valores_llenos = series.fillna(conteo_unidades.idxmax())
-            return series_valores_llenos
+       
         
             
     
@@ -103,15 +99,15 @@ def transformar_df(df):
         serie_i= copia['inscription']
         copia.loc[:,'width'] = llenar_valores_vacios(serie_w,"promedio")
         copia.loc[:,'height'] = llenar_valores_vacios(serie_h,"promedio")
-        copia.loc[:,'units'] = llenar_valores_vacios(serie_u,"values_counts")
-        copia.loc[:,'inscription'] = llenar_valores_vacios(serie_i,"values_counts_1")
+        copia.loc[:,'units'] = llenar_valores_vacios(serie_u,"value_counts")
+        copia.loc[:,'inscription'] = llenar_valores_vacios(serie_i,"value_counts")
         
         lista_df_agrupados.append(copia)
     df_completo_con_valores = pd.concat(lista_df_agrupados)
     return df_completo_con_valores
     
 df_valores_llenos= transformar_df(seccion_df)
-
+#el artista Wols no tiene valores en inscription por tanto no se modifican sus valores
     
     
     
