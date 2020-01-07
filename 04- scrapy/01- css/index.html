@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Scrapy do</title>
+  <style>
+    /*Selector por Identificador */
+    #titulo-uno {
+      background-color: rgba(243, 43, 243, 0.966);
+    }
+
+
+    /* Selector de clases */
+    .texto-azul {
+      color: blue;
+    }
+
+    .texto-amarillo {
+      color: yellow;
+    }
+
+    .texto-cafe {
+      color: brown;
+    }
+
+
+    .texto-verde {
+      background-color: green;
+    }
+
+    /*Selector por etiqueta */
+    p {
+      color: white;
+      background-color: black;
+    }
+
+    body {
+      background-color: rgb(98, 169, 190);
+    }
+
+    /* Jerarquia de estilos */
+    /* 
+    El estilo en la etiqueta <-- no recomendado, no es una buena práctica
+    El más importante: ID
+    Segundo más importante: CLASE
+    Tercero más importante: ETIQUETA HTML
+    No importa el orden de definicion de los estilos, la jerarquia siempre se cumple
+
+    Si son de la misma jerarquia por ejemplo clases
+    Se aplica el orden de definición de los estilos, no el orden en el que se declaran
+     */
+
+    /* Etiquet dentro de otra etiqueta */
+
+    ul p {
+      background-color: coral;
+      color: rgb(31, 28, 28);
+    }
+
+    li>p.texto-amarillo {
+      color: goldenrod;
+      background-color: gray;
+    }
+
+    p.texto-azul.texto-amarillo.texto-cafe.texto-blanco {
+      color: pink;
+    }
+  </style>
+</head>
+
+<body>
+  <h1 class="texto-amarillo">Titulo Scrapy Do</h1>
+  <br>
+  <p class="texto-verde">Mi mamá</p>
+  <p class="texto-azul texto-blanco texto-cafe texto-amarillo">Me mima</p>
+  <ul>
+    <li>
+      <p>Muy</p>
+    </li>
+    <li>
+      <p>Buenos</p>
+    </li>
+    <li>
+      <p class="texto-amarillo">Días</p>
+    </li>
+  </ul>
+
+
+
+  <style>
+    .texto-blanco {
+      color: white;
+    }
+  </style>
+</body>
+
+</html>
