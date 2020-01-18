@@ -90,8 +90,8 @@ class IntroSpider(scrapy.Spider):
         path="./libros.txt"
         archivo_abierto=open(path,mode="a")
         contador=0
+        archivo_abierto.write("********************************"+genero+'**************************\n')
         for titulo in titulos:
-          # archivo_abierto.write("********************************"+genero+'**************************\n')
           archivo_abierto.write(titulo +" | "+ precios[contador] +" | "+ url_images[contador]+ "\n")
           # archivo_abierto.write(titulo +"\n")
           contador= contador + 1
