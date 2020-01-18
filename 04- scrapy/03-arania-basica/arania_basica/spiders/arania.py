@@ -75,12 +75,12 @@ class IntroSpider(scrapy.Spider):
       etiqueta_contenedora = response.css('article.product_pod');
       titulos = etiqueta_contenedora.css('h3 > a::text').extract() #se pueden concatenar las variables de tipo response.css
       precios = etiqueta_contenedora.css('div.product_price> p.price_color::text').extract()
-      url_images = etiqueta_contenedora.css('div.image_container a img::attr(src)')
+      url_images = etiqueta_contenedora.css('div.image_container a img::attr(src)').extract()
 
       self.insertar_libro(titulos,precios, url_images,genero)
-      # print(titulos);
-      # print(precios)
-      # print(url_images)
+      print(titulos);
+      print(precios)
+      print(url_images)
   def insertar_libro(self, titulos, precios, url_images,genero):
 
       libros= pd.DataFrame(titulos)
@@ -91,8 +91,9 @@ class IntroSpider(scrapy.Spider):
         archivo_abierto=open(path,mode="a")
         contador=0
         for titulo in titulos:
-          archivo_abierto.write("********************************"+genero+'**************************\n')
-          archivo_abierto.write(titulo +" | "+ precios[contador]+" | "+ url_images[contador]+ "\n")
+          # archivo_abierto.write("********************************"+genero+'**************************\n')
+          archivo_abierto.write(titulo +" | "+ precios[contador] +" | "+ url_images[contador]+ "\n")
+          # archivo_abierto.write(titulo +"\n")
           contador= contador + 1
           # archivo_abierto.write(libro + "\n")
         archivo_abierto.close
