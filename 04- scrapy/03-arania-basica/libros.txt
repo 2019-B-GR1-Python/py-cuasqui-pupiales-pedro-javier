@@ -15,27 +15,21 @@ The Road to Little ... | £23.21 | ../../../../media/cache/e0/4f/e04f8eda2a2fa947
 Neither Here nor There: ... | £38.95 | ../../../../media/cache/06/81/0681530a7bc301caf5c3257e1b0f0750.jpg
 1,000 Places to See ... | £26.08 | ../../../../media/cache/d7/0f/d70f7edd92705c45a82118c3ff6c299d.jpg
 ********************************
-    Womens Fiction | 
+    Philosophy | 
      Books to Scrape - Sandbox
 
 **************************
-I Had a Nice ... | £57.36 | ../../../../media/cache/5f/72/5f72c8a0d5a7292e2929a354ec8a022f.jpg
-Will You Won't You ... | £13.86 | ../../../../media/cache/16/e3/16e3ca741956485119251e7442a67e2e.jpg
-Keep Me Posted | £20.46 | ../../../../media/cache/ae/ac/aeac003461b89c7ef826251d940b2afc.jpg
-Grey (Fifty Shades #4) | £48.49 | ../../../../media/cache/bb/ee/bbeeab4c4ce572c0e9764e3a96c6d4a5.jpg
-Meternity | £43.58 | ../../../../media/cache/39/e3/39e33ebef2d7a35dd6899541eba8306d.jpg
-Some Women | £13.73 | ../../../../media/cache/27/b7/27b7f4ec590965b5acc15dc4b1376684.jpg
-Shopaholic Ties the Knot ... | £48.39 | ../../../../media/cache/ac/ba/acba5e4e1813b8c1fff4890f1efef3ab.jpg
-Can You Keep a ... | £21.94 | ../../../../media/cache/72/73/7273ff1bfe3b0a6aab7f54ddf9be7b44.jpg
-Twenties Girl | £42.80 | ../../../../media/cache/a0/fa/a0fa38039f6a674a7c89dfe2be866259.jpg
-The Undomestic Goddess | £45.75 | ../../../../media/cache/13/8f/138f4cf84be250d08e1f5c1db3643dbc.jpg
-The Nanny Diaries (Nanny ... | £52.53 | ../../../../media/cache/63/5f/635fb981e464f7427787824b20a15e71.jpg
-The Devil Wears Prada ... | £44.29 | ../../../../media/cache/87/d3/87d34d376555dd0cb75030d1059cc144.jpg
-Something Borrowed (Darcy & ... | £48.96 | ../../../../media/cache/6d/6d/6d6d5799190b4f9ef89f3bbc8b67d60d.jpg
-Something Blue (Darcy & ... | £54.62 | ../../../../media/cache/72/f5/72f5ed312bc82afa386c9cd48d4e36dd.jpg
-I've Got Your Number | £19.69 | ../../../../media/cache/b2/df/b2df826432771838819db89c20e20609.jpg
-The Edge of Reason ... | £19.18 | ../../../../media/cache/db/34/db341aa83daa76cd9f9bd2c86ccb5dba.jpg
-Bridget Jones's Diary (Bridget ... | £29.82 | ../../../../media/cache/0c/32/0c329cbd2adf4e0dc825f892106673b2.jpg
+Sophie's World | £15.94 | ../../../../media/cache/65/71/6571919836ec51ed54f0050c31d8a0cd.jpg
+The Death of Humanity: ... | £58.11 | ../../../../media/cache/71/df/71df730cf38c232ee58a2e407135f055.jpg
+The Stranger | £17.44 | ../../../../media/cache/ea/04/ea0476a6f4c318ceccf5e2f2b39f2b15.jpg
+Proofs of God: Classical ... | £54.21 | ../../../../media/cache/3f/ef/3fef12d9da503693af12997c0ea0897f.jpg
+Kierkegaard: A Christian Missionary ... | £47.13 | ../../../../media/cache/05/ce/05ce699eaf78c0fae20308497c4f496a.jpg
+At The Existentialist Café: ... | £29.93 | ../../../../media/cache/de/76/de76d5c473c358bd41c03cf710692bfb.jpg
+Critique of Pure Reason | £20.75 | ../../../../media/cache/12/6e/126ef8f6473b81808ebbb9cff155e883.jpg
+Run, Spot, Run: The ... | £20.02 | ../../../../media/cache/91/e6/91e6190dcdd7d6cdeb94a82b60917ec4.jpg
+The Nicomachean Ethics | £36.34 | ../../../../media/cache/f0/aa/f0aa9ae0319b1d6e0706e6053020e696.jpg
+Meditations | £25.89 | ../../../../media/cache/df/c9/dfc9ed72e963572d23233b3a8cb01676.jpg
+Beyond Good and Evil | £43.38 | ../../../../media/cache/ab/45/ab45f300aa15066ad1260d6f1398d03e.jpg
 ********************************
     Fiction | 
      Books to Scrape - Sandbox
@@ -62,21 +56,30 @@ Mr. Mercedes (Bill Hodges ... | £28.90 | ../../../../media/cache/a7/f0/a7f092a7b
 I Am Pilgrim (Pilgrim ... | £10.60 | ../../../../media/cache/ed/07/ed07c9e7c53d4f33a6eb7d41eb0e6d4a.jpg
 Eligible (The Austen Project ... | £27.09 | ../../../../media/cache/26/3b/263bf5d128bf18553ea8da8bb19e9a0c.jpg
 ********************************
-    Philosophy | 
+    Mystery | 
      Books to Scrape - Sandbox
 
 **************************
-Sophie's World | £15.94 | ../../../../media/cache/65/71/6571919836ec51ed54f0050c31d8a0cd.jpg
-The Death of Humanity: ... | £58.11 | ../../../../media/cache/71/df/71df730cf38c232ee58a2e407135f055.jpg
-The Stranger | £17.44 | ../../../../media/cache/ea/04/ea0476a6f4c318ceccf5e2f2b39f2b15.jpg
-Proofs of God: Classical ... | £54.21 | ../../../../media/cache/3f/ef/3fef12d9da503693af12997c0ea0897f.jpg
-Kierkegaard: A Christian Missionary ... | £47.13 | ../../../../media/cache/05/ce/05ce699eaf78c0fae20308497c4f496a.jpg
-At The Existentialist Café: ... | £29.93 | ../../../../media/cache/de/76/de76d5c473c358bd41c03cf710692bfb.jpg
-Critique of Pure Reason | £20.75 | ../../../../media/cache/12/6e/126ef8f6473b81808ebbb9cff155e883.jpg
-Run, Spot, Run: The ... | £20.02 | ../../../../media/cache/91/e6/91e6190dcdd7d6cdeb94a82b60917ec4.jpg
-The Nicomachean Ethics | £36.34 | ../../../../media/cache/f0/aa/f0aa9ae0319b1d6e0706e6053020e696.jpg
-Meditations | £25.89 | ../../../../media/cache/df/c9/dfc9ed72e963572d23233b3a8cb01676.jpg
-Beyond Good and Evil | £43.38 | ../../../../media/cache/ab/45/ab45f300aa15066ad1260d6f1398d03e.jpg
+Sharp Objects | £47.82 | ../../../../media/cache/32/51/3251cf3a3412f53f339e42cac2134093.jpg
+In a Dark, Dark ... | £19.63 | ../../../../media/cache/23/85/238570a1c284e730dbc737a7e631ae2b.jpg
+The Past Never Ends | £56.50 | ../../../../media/cache/89/b8/89b850edb01851a91f64ba114b96acb6.jpg
+A Murder in Time | £16.64 | ../../../../media/cache/11/aa/11aaad48b5f15e262456ca65294084da.jpg
+The Murder of Roger ... | £44.10 | ../../../../media/cache/29/fe/29fe70b1b2e5a9ba61d4bd331255e19e.jpg
+The Last Mile (Amos ... | £54.21 | ../../../../media/cache/37/f1/37f118b4a56d866e1e8b563759d6966c.jpg
+That Darkness (Gardiner and ... | £13.92 | ../../../../media/cache/44/9e/449ed681142bc336646abee754e96639.jpg
+Tastes Like Fear (DI ... | £10.69 | ../../../../media/cache/3c/91/3c91d97266bd6dda322089695fb46daf.jpg
+A Time of Torment ... | £48.35 | ../../../../media/cache/e8/c0/e8c0ba15066bab950ae161fd60949b9a.jpg
+A Study in Scarlet ... | £16.73 | ../../../../media/cache/8f/a4/8fa41d6caa10e427356b8a590eb4d96b.jpg
+Poisonous (Max Revere Novels ... | £26.80 | ../../../../media/cache/23/52/2352718971d5e166fa9541a5a7d716fa.jpg
+Murder at the 42nd ... | £54.36 | ../../../../media/cache/c3/8d/c38d65cd155b67ca025f0655bd1bb095.jpg
+Most Wanted | £35.28 | ../../../../media/cache/8b/bc/8bbc5ab4c3784b4d9b93eb0fd1fb6fd6.jpg
+Hide Away (Eve Duncan ... | £11.84 | ../../../../media/cache/57/07/5707c3d5d4fd44d943d51730ba7d429a.jpg
+Boar Island (Anna Pigeon ... | £59.48 | ../../../../media/cache/d5/81/d58157866ea8f015a8e4c55b23b8c96f.jpg
+The Widow | £27.26 | ../../../../media/cache/fd/71/fd71fb07247bf911505a351c0670c6dc.jpg
+Playing with Fire | £13.71 | ../../../../media/cache/90/0b/900bd2e60d56b6480a4e8eb2dddb46d6.jpg
+What Happened on Beale ... | £25.37 | ../../../../media/cache/c7/ab/c7abb5e32bd37118a87523dcee0a70a6.jpg
+The Bachelor Girl's Guide ... | £52.30 | ../../../../media/cache/95/d7/95d7541679fcbd579b8a4f2b47231aaf.jpg
+Delivering the Truth (Quaker ... | £20.89 | ../../../../media/cache/57/31/5731a5d46c2c1e88977eb5e6d1337a2e.jpg
 ********************************
     Religion | 
      Books to Scrape - Sandbox
@@ -89,31 +92,6 @@ The Book of Mormon | £24.57 | ../../../../media/cache/83/db/83dbf86eb0fed1d99de2
 A History of God: ... | £27.62 | ../../../../media/cache/71/91/7191a7d76eb6c3a18259541e2c038ae3.jpg
 The Bhagavad Gita | £57.49 | ../../../../media/cache/4e/69/4e69dacc99de838814d0f65c94e67f6c.jpg
 Choosing Our Religion: The ... | £28.42 | ../../../../media/cache/df/ab/dfabeab158046237ddb6b713b794909f.jpg
-********************************
-    Historical Fiction | 
-     Books to Scrape - Sandbox
-
-**************************
-Tipping the Velvet | £53.74 | ../../../../media/cache/26/0c/260c6ae16bce31c8f8c95daddd9f4a1c.jpg
-Forever and Forever: The ... | £29.69 | ../../../../media/cache/d6/58/d658a1485b130ff26ca5fb0d5975ed2e.jpg
-A Flight of Arrows ... | £55.53 | ../../../../media/cache/82/96/8296f92b70fb1dafefecda92c1d51941.jpg
-The House by the ... | £36.95 | ../../../../media/cache/0d/cb/0dcb33d60b0e79adf8ab9842e697ea2e.jpg
-Mrs. Houdini | £30.25 | ../../../../media/cache/0e/fe/0efe86960cdff718aed01a5c3f65b1c3.jpg
-The Marriage of Opposites | £28.08 | ../../../../media/cache/0f/c2/0fc21ec3489cb23116778ee84f425eca.jpg
-Glory over Everything: Beyond ... | £45.84 | ../../../../media/cache/96/41/964194a317f8ce5ed031bf4c9ceb43ab.jpg
-Love, Lies and Spies | £20.55 | ../../../../media/cache/7a/22/7a224a6e174af91950e9b124afe54e0e.jpg
-A Paris Apartment | £39.01 | ../../../../media/cache/16/57/16575316618bd7e922d5b0e0f87de2ca.jpg
-Lilac Girls | £17.28 | ../../../../media/cache/6c/2e/6c2e764e3ea89859b52df8de4f12af7a.jpg
-The Constant Princess (The ... | £16.62 | ../../../../media/cache/fc/80/fc80b999ff4b8ef24b7071f62d2bf6d1.jpg
-The Invention of Wings | £37.34 | ../../../../media/cache/62/fa/62fa1e72f06f05762db5d9cedf654153.jpg
-World Without End (The ... | £32.97 | ../../../../media/cache/be/7c/be7ce6fbc9a8e1a5a5b5c32e73cfd78a.jpg
-The Passion of Dolssa | £28.32 | ../../../../media/cache/6b/82/6b822681c4035131560d40dd3b5a6a2e.jpg
-Girl With a Pearl ... | £26.77 | ../../../../media/cache/b7/ad/b7ad37d93d8401c84d7325aa645ff6d5.jpg
-Voyager (Outlander #3) | £21.07 | ../../../../media/cache/b5/d8/b5d813da01f2ccd7bcfe34e2b875e752.jpg
-The Red Tent | £35.66 | ../../../../media/cache/b2/8f/b28f211e50e74445ca071d4279d1080d.jpg
-The Last Painting of ... | £55.55 | ../../../../media/cache/bf/fd/bffd473ab232c5f35e8c81bb927f1624.jpg
-The Guernsey Literary and ... | £49.53 | ../../../../media/cache/18/f7/18f7bf6366cd7a8b947fd790d808047b.jpg
-Girl in the Blue ... | £46.83 | ../../../../media/cache/bf/7a/bf7a5bc1d1ebac5e9b6fbb147828a123.jpg
 ********************************
     Childrens | 
      Books to Scrape - Sandbox
@@ -165,30 +143,30 @@ The Genius of Birds | £17.24 | ../../../../media/cache/13/57/1357c6aa40c9e63d2f9
 The Artist's Way: A ... | £38.49 | ../../../../media/cache/0e/6d/0e6dc2484322c5b9e7854ced66fdf62d.jpg
 So You've Been Publicly ... | £12.23 | ../../../../media/cache/6e/d4/6ed4991d97f60db29ec7b421e61a2cf3.jpg
 ********************************
-    Mystery | 
+    Historical Fiction | 
      Books to Scrape - Sandbox
 
 **************************
-Sharp Objects | £47.82 | ../../../../media/cache/32/51/3251cf3a3412f53f339e42cac2134093.jpg
-In a Dark, Dark ... | £19.63 | ../../../../media/cache/23/85/238570a1c284e730dbc737a7e631ae2b.jpg
-The Past Never Ends | £56.50 | ../../../../media/cache/89/b8/89b850edb01851a91f64ba114b96acb6.jpg
-A Murder in Time | £16.64 | ../../../../media/cache/11/aa/11aaad48b5f15e262456ca65294084da.jpg
-The Murder of Roger ... | £44.10 | ../../../../media/cache/29/fe/29fe70b1b2e5a9ba61d4bd331255e19e.jpg
-The Last Mile (Amos ... | £54.21 | ../../../../media/cache/37/f1/37f118b4a56d866e1e8b563759d6966c.jpg
-That Darkness (Gardiner and ... | £13.92 | ../../../../media/cache/44/9e/449ed681142bc336646abee754e96639.jpg
-Tastes Like Fear (DI ... | £10.69 | ../../../../media/cache/3c/91/3c91d97266bd6dda322089695fb46daf.jpg
-A Time of Torment ... | £48.35 | ../../../../media/cache/e8/c0/e8c0ba15066bab950ae161fd60949b9a.jpg
-A Study in Scarlet ... | £16.73 | ../../../../media/cache/8f/a4/8fa41d6caa10e427356b8a590eb4d96b.jpg
-Poisonous (Max Revere Novels ... | £26.80 | ../../../../media/cache/23/52/2352718971d5e166fa9541a5a7d716fa.jpg
-Murder at the 42nd ... | £54.36 | ../../../../media/cache/c3/8d/c38d65cd155b67ca025f0655bd1bb095.jpg
-Most Wanted | £35.28 | ../../../../media/cache/8b/bc/8bbc5ab4c3784b4d9b93eb0fd1fb6fd6.jpg
-Hide Away (Eve Duncan ... | £11.84 | ../../../../media/cache/57/07/5707c3d5d4fd44d943d51730ba7d429a.jpg
-Boar Island (Anna Pigeon ... | £59.48 | ../../../../media/cache/d5/81/d58157866ea8f015a8e4c55b23b8c96f.jpg
-The Widow | £27.26 | ../../../../media/cache/fd/71/fd71fb07247bf911505a351c0670c6dc.jpg
-Playing with Fire | £13.71 | ../../../../media/cache/90/0b/900bd2e60d56b6480a4e8eb2dddb46d6.jpg
-What Happened on Beale ... | £25.37 | ../../../../media/cache/c7/ab/c7abb5e32bd37118a87523dcee0a70a6.jpg
-The Bachelor Girl's Guide ... | £52.30 | ../../../../media/cache/95/d7/95d7541679fcbd579b8a4f2b47231aaf.jpg
-Delivering the Truth (Quaker ... | £20.89 | ../../../../media/cache/57/31/5731a5d46c2c1e88977eb5e6d1337a2e.jpg
+Tipping the Velvet | £53.74 | ../../../../media/cache/26/0c/260c6ae16bce31c8f8c95daddd9f4a1c.jpg
+Forever and Forever: The ... | £29.69 | ../../../../media/cache/d6/58/d658a1485b130ff26ca5fb0d5975ed2e.jpg
+A Flight of Arrows ... | £55.53 | ../../../../media/cache/82/96/8296f92b70fb1dafefecda92c1d51941.jpg
+The House by the ... | £36.95 | ../../../../media/cache/0d/cb/0dcb33d60b0e79adf8ab9842e697ea2e.jpg
+Mrs. Houdini | £30.25 | ../../../../media/cache/0e/fe/0efe86960cdff718aed01a5c3f65b1c3.jpg
+The Marriage of Opposites | £28.08 | ../../../../media/cache/0f/c2/0fc21ec3489cb23116778ee84f425eca.jpg
+Glory over Everything: Beyond ... | £45.84 | ../../../../media/cache/96/41/964194a317f8ce5ed031bf4c9ceb43ab.jpg
+Love, Lies and Spies | £20.55 | ../../../../media/cache/7a/22/7a224a6e174af91950e9b124afe54e0e.jpg
+A Paris Apartment | £39.01 | ../../../../media/cache/16/57/16575316618bd7e922d5b0e0f87de2ca.jpg
+Lilac Girls | £17.28 | ../../../../media/cache/6c/2e/6c2e764e3ea89859b52df8de4f12af7a.jpg
+The Constant Princess (The ... | £16.62 | ../../../../media/cache/fc/80/fc80b999ff4b8ef24b7071f62d2bf6d1.jpg
+The Invention of Wings | £37.34 | ../../../../media/cache/62/fa/62fa1e72f06f05762db5d9cedf654153.jpg
+World Without End (The ... | £32.97 | ../../../../media/cache/be/7c/be7ce6fbc9a8e1a5a5b5c32e73cfd78a.jpg
+The Passion of Dolssa | £28.32 | ../../../../media/cache/6b/82/6b822681c4035131560d40dd3b5a6a2e.jpg
+Girl With a Pearl ... | £26.77 | ../../../../media/cache/b7/ad/b7ad37d93d8401c84d7325aa645ff6d5.jpg
+Voyager (Outlander #3) | £21.07 | ../../../../media/cache/b5/d8/b5d813da01f2ccd7bcfe34e2b875e752.jpg
+The Red Tent | £35.66 | ../../../../media/cache/b2/8f/b28f211e50e74445ca071d4279d1080d.jpg
+The Last Painting of ... | £55.55 | ../../../../media/cache/bf/fd/bffd473ab232c5f35e8c81bb927f1624.jpg
+The Guernsey Literary and ... | £49.53 | ../../../../media/cache/18/f7/18f7bf6366cd7a8b947fd790d808047b.jpg
+Girl in the Blue ... | £46.83 | ../../../../media/cache/bf/7a/bf7a5bc1d1ebac5e9b6fbb147828a123.jpg
 ********************************
     Sports and Games | 
      Books to Scrape - Sandbox
@@ -199,6 +177,49 @@ Friday Night Lights: A ... | £51.22 | ../../../../media/cache/7d/cf/7dcf6c3b419b
 Sugar Rush (Offensive Line ... | £24.42 | ../../../../media/cache/c3/a9/c3a90a5baa833a37c29c4b03a444737c.jpg
 Settling the Score (The ... | £44.91 | ../../../../media/cache/9b/4e/9b4ece2ab5a6335c8594c878e2f22df1.jpg
 Icing (Aces Hockey #2) | £40.44 | ../../../../media/cache/8d/1e/8d1e285bf672b2ea66879490cc5f6904.jpg
+********************************
+    Science Fiction | 
+     Books to Scrape - Sandbox
+
+**************************
+Mesaerion: The Best Science ... | £37.59 | ../../../../media/cache/09/a3/09a3aef48557576e1a85ba7efea8ecb7.jpg
+Join | £35.67 | ../../../../media/cache/93/63/9363f0065fbad5689f44fcf6e203eef3.jpg
+William Shakespeare's Star Wars: ... | £43.30 | ../../../../media/cache/02/37/0237b445efc18c5562355a5a2c40889c.jpg
+The Project | £10.65 | ../../../../media/cache/10/6e/106e2fc7160712edf8e2ff996dc8cd6c.jpg
+Soft Apocalypse | £26.12 | ../../../../media/cache/f0/06/f0060c756556b855184fa32f66280961.jpg
+Sleeping Giants (Themis Files ... | £48.74 | ../../../../media/cache/c0/72/c072c1ef144d571abd25fe9cc18cceba.jpg
+Arena | £21.36 | ../../../../media/cache/51/88/518810d182843244a404f2a2a614a93b.jpg
+Foundation (Foundation (Publication Order) ... | £32.42 | ../../../../media/cache/8b/92/8b9267df86378b6973974ae7e1924ffe.jpg
+The Restaurant at the ... | £10.92 | ../../../../media/cache/b8/b2/b8b2956acc758a381beef87339c0a52f.jpg
+Ready Player One | £19.07 | ../../../../media/cache/51/34/513418bd1c6114f3ea1fd703278e20ef.jpg
+Life, the Universe and ... | £33.26 | ../../../../media/cache/ef/8b/ef8bc5adcd3bea8e8ba97be76d07a32a.jpg
+Dune (Dune #1) | £54.86 | ../../../../media/cache/7a/bc/7abccb865ecf9b0f676800b10c71cfd6.jpg
+Do Androids Dream of ... | £51.48 | ../../../../media/cache/fa/65/fa653fbe3a4c69227c9b79d471cee576.jpg
+Three Wishes (River of ... | £44.18 | ../../../../media/cache/c7/21/c721943edf481cad5ab32505e2ad3865.jpg
+The Last Girl (The ... | £36.26 | ../../../../media/cache/da/47/da4746e620f8ccd7cf20628d1a5e535a.jpg
+Having the Barbarian's Baby ... | £34.96 | ../../../../media/cache/f4/83/f4835e9f3fdd8b8107bbb39a391654f0.jpg
+********************************
+    Womens Fiction | 
+     Books to Scrape - Sandbox
+
+**************************
+I Had a Nice ... | £57.36 | ../../../../media/cache/5f/72/5f72c8a0d5a7292e2929a354ec8a022f.jpg
+Will You Won't You ... | £13.86 | ../../../../media/cache/16/e3/16e3ca741956485119251e7442a67e2e.jpg
+Keep Me Posted | £20.46 | ../../../../media/cache/ae/ac/aeac003461b89c7ef826251d940b2afc.jpg
+Grey (Fifty Shades #4) | £48.49 | ../../../../media/cache/bb/ee/bbeeab4c4ce572c0e9764e3a96c6d4a5.jpg
+Meternity | £43.58 | ../../../../media/cache/39/e3/39e33ebef2d7a35dd6899541eba8306d.jpg
+Some Women | £13.73 | ../../../../media/cache/27/b7/27b7f4ec590965b5acc15dc4b1376684.jpg
+Shopaholic Ties the Knot ... | £48.39 | ../../../../media/cache/ac/ba/acba5e4e1813b8c1fff4890f1efef3ab.jpg
+Can You Keep a ... | £21.94 | ../../../../media/cache/72/73/7273ff1bfe3b0a6aab7f54ddf9be7b44.jpg
+Twenties Girl | £42.80 | ../../../../media/cache/a0/fa/a0fa38039f6a674a7c89dfe2be866259.jpg
+The Undomestic Goddess | £45.75 | ../../../../media/cache/13/8f/138f4cf84be250d08e1f5c1db3643dbc.jpg
+The Nanny Diaries (Nanny ... | £52.53 | ../../../../media/cache/63/5f/635fb981e464f7427787824b20a15e71.jpg
+The Devil Wears Prada ... | £44.29 | ../../../../media/cache/87/d3/87d34d376555dd0cb75030d1059cc144.jpg
+Something Borrowed (Darcy & ... | £48.96 | ../../../../media/cache/6d/6d/6d6d5799190b4f9ef89f3bbc8b67d60d.jpg
+Something Blue (Darcy & ... | £54.62 | ../../../../media/cache/72/f5/72f5ed312bc82afa386c9cd48d4e36dd.jpg
+I've Got Your Number | £19.69 | ../../../../media/cache/b2/df/b2df826432771838819db89c20e20609.jpg
+The Edge of Reason ... | £19.18 | ../../../../media/cache/db/34/db341aa83daa76cd9f9bd2c86ccb5dba.jpg
+Bridget Jones's Diary (Bridget ... | £29.82 | ../../../../media/cache/0c/32/0c329cbd2adf4e0dc825f892106673b2.jpg
 ********************************
     Add a comment | 
      Books to Scrape - Sandbox
@@ -225,25 +246,6 @@ A Brush of Wings ... | £55.51 | ../../../../media/cache/4d/16/4d163d43cb4aa624e5
 Rook | £37.86 | ../../../../media/cache/55/33/5533595a623c3bb947c4a5171fc2df08.jpg
 The Midnight Watch: A ... | £26.20 | ../../../../media/cache/97/3a/973a2c3462a18fc90d3b9662d959df37.jpg
 ********************************
-    Paranormal | 
-     Books to Scrape - Sandbox
-
-**************************
-Vampire Knight, Vol. 1 ... | £15.40 | ../../../../media/cache/4b/97/4b972f89c11900ac0e84726d1f07bfcc.jpg
-********************************
-    Art | 
-     Books to Scrape - Sandbox
-
-**************************
-Wall and Piece | £44.18 | ../../../../media/cache/a5/41/a5416b9646aaa7287baa287ec2590270.jpg
-Feathers: Displays of Brilliant ... | £49.05 | ../../../../media/cache/f2/ee/f2ee668cf593ff13a9560c2801e9c2a2.jpg
-Art and Fear: Observations ... | £48.63 | ../../../../media/cache/ef/80/ef80e6100214c486562a73ce76444826.jpg
-The New Drawing on ... | £43.02 | ../../../../media/cache/6a/55/6a55ccd4bc2383f5fe915fbef8bd5a23.jpg
-History of Beauty | £10.29 | ../../../../media/cache/58/a6/58a634c3231b5380544cc330536cb5ea.jpg
-The Story of Art | £41.14 | ../../../../media/cache/bb/36/bb364a10868756d1c0877c928b43b533.jpg
-The Art Book | £32.34 | ../../../../media/cache/99/51/99511f4da1a4a2114e2ed12e6ba17b65.jpg
-Ways of Seeing | £39.51 | ../../../../media/cache/a8/3a/a83a4d31d30dc3cb26a29899a5c3b91d.jpg
-********************************
     Poetry | 
      Books to Scrape - Sandbox
 
@@ -267,20 +269,6 @@ The Collected Poems of ... | £15.42 | ../../../../media/cache/7e/93/7e934132cd03
 The Crossover | £38.77 | ../../../../media/cache/9f/35/9f351ca1978128c60a3b7f85987075b3.jpg
 Booked | £17.49 | ../../../../media/cache/8f/46/8f46bb13feb3a4440a27dfcf688fbaa6.jpg
 Twenty Love Poems and ... | £30.95 | ../../../../media/cache/df/ab/dfab1d94f9190df7c13b63a093a6d16e.jpg
-********************************
-    Autobiography | 
-     Books to Scrape - Sandbox
-
-**************************
-The Argonauts | £10.93 | ../../../../media/cache/0a/15/0a1567cd04a6582d333db71337b4e2a6.jpg
-M Train | £27.18 | ../../../../media/cache/d6/e8/d6e8258cee98f80727e99f7ac5aa1b88.jpg
-Lab Girl | £40.85 | ../../../../media/cache/e9/72/e972f8b4abaaa6f8f449479cd9d87be3.jpg
-Approval Junkie: Adventures in ... | £58.81 | ../../../../media/cache/17/aa/17aacb738eace89a635a4eb47a94c11d.jpg
-Running with Scissors | £12.91 | ../../../../media/cache/66/c7/66c7a1537c8901e1e4ec217d1956bae8.jpg
-Me Talk Pretty One ... | £57.60 | ../../../../media/cache/98/9f/989fe700e9e6bdec4fc3217daa5b7df3.jpg
-Lust & Wonder | £11.87 | ../../../../media/cache/61/ba/61ba5bc1ee3d8cb3dd350120ffa3f31e.jpg
-Life Without a Recipe | £59.04 | ../../../../media/cache/80/b3/80b3e38be4204b3b64cdbe8c80dcf1f9.jpg
-A Heartbreaking Work of ... | £54.29 | ../../../../media/cache/7a/58/7a587c5814f33c0c54e8bfa0ef66d690.jpg
 ********************************
     Fantasy | 
      Books to Scrape - Sandbox
@@ -307,11 +295,50 @@ The Star-Touched Queen | £32.30 | ../../../../media/cache/d3/0d/d30dd8b6be6f9fcf
 A Shard of Ice ... | £56.63 | ../../../../media/cache/27/64/27649cb5da52970f4bb2fc5234a48578.jpg
 King's Folly (The Kinsman ... | £39.61 | ../../../../media/cache/3e/2d/3e2d526ee062008ab1cbf54f90a5abb2.jpg
 ********************************
+    Paranormal | 
+     Books to Scrape - Sandbox
+
+**************************
+Vampire Knight, Vol. 1 ... | £15.40 | ../../../../media/cache/4b/97/4b972f89c11900ac0e84726d1f07bfcc.jpg
+********************************
+    Autobiography | 
+     Books to Scrape - Sandbox
+
+**************************
+The Argonauts | £10.93 | ../../../../media/cache/0a/15/0a1567cd04a6582d333db71337b4e2a6.jpg
+M Train | £27.18 | ../../../../media/cache/d6/e8/d6e8258cee98f80727e99f7ac5aa1b88.jpg
+Lab Girl | £40.85 | ../../../../media/cache/e9/72/e972f8b4abaaa6f8f449479cd9d87be3.jpg
+Approval Junkie: Adventures in ... | £58.81 | ../../../../media/cache/17/aa/17aacb738eace89a635a4eb47a94c11d.jpg
+Running with Scissors | £12.91 | ../../../../media/cache/66/c7/66c7a1537c8901e1e4ec217d1956bae8.jpg
+Me Talk Pretty One ... | £57.60 | ../../../../media/cache/98/9f/989fe700e9e6bdec4fc3217daa5b7df3.jpg
+Lust & Wonder | £11.87 | ../../../../media/cache/61/ba/61ba5bc1ee3d8cb3dd350120ffa3f31e.jpg
+Life Without a Recipe | £59.04 | ../../../../media/cache/80/b3/80b3e38be4204b3b64cdbe8c80dcf1f9.jpg
+A Heartbreaking Work of ... | £54.29 | ../../../../media/cache/7a/58/7a587c5814f33c0c54e8bfa0ef66d690.jpg
+********************************
+    Art | 
+     Books to Scrape - Sandbox
+
+**************************
+Wall and Piece | £44.18 | ../../../../media/cache/a5/41/a5416b9646aaa7287baa287ec2590270.jpg
+Feathers: Displays of Brilliant ... | £49.05 | ../../../../media/cache/f2/ee/f2ee668cf593ff13a9560c2801e9c2a2.jpg
+Art and Fear: Observations ... | £48.63 | ../../../../media/cache/ef/80/ef80e6100214c486562a73ce76444826.jpg
+The New Drawing on ... | £43.02 | ../../../../media/cache/6a/55/6a55ccd4bc2383f5fe915fbef8bd5a23.jpg
+History of Beauty | £10.29 | ../../../../media/cache/58/a6/58a634c3231b5380544cc330536cb5ea.jpg
+The Story of Art | £41.14 | ../../../../media/cache/bb/36/bb364a10868756d1c0877c928b43b533.jpg
+The Art Book | £32.34 | ../../../../media/cache/99/51/99511f4da1a4a2114e2ed12e6ba17b65.jpg
+Ways of Seeing | £39.51 | ../../../../media/cache/a8/3a/a83a4d31d30dc3cb26a29899a5c3b91d.jpg
+********************************
     Adult Fiction | 
      Books to Scrape - Sandbox
 
 **************************
 Fifty Shades Freed (Fifty ... | £15.36 | ../../../../media/cache/18/d8/18d8e02c75c2ef23556c9746fae57e43.jpg
+********************************
+    Parenting | 
+     Books to Scrape - Sandbox
+
+**************************
+Catastrophic Happiness: Finding Joy ... | £37.35 | ../../../../media/cache/7d/0b/7d0bb832760e81c281d8d283ba6a2b09.jpg
 ********************************
     Humor | 
      Books to Scrape - Sandbox
@@ -327,6 +354,54 @@ When You Are Engulfed ... | £30.89 | ../../../../media/cache/73/36/733662595aede
 Naked | £31.69 | ../../../../media/cache/e7/12/e71268a559d73826aa64151d47357a12.jpg
 Lamb: The Gospel According ... | £55.50 | ../../../../media/cache/a1/03/a10370da29e4ba78c7a75a14041eae0e.jpg
 Holidays on Ice | £51.07 | ../../../../media/cache/4b/9a/4b9a2a6d4c995e12fe216f6173a582be.jpg
+********************************
+    Horror | 
+     Books to Scrape - Sandbox
+
+**************************
+Security | £39.25 | ../../../../media/cache/da/df/dadfac66a89774b46b10225362724c83.jpg
+Follow You Home | £21.36 | ../../../../media/cache/a7/4b/a74b35375ce874153fd352e33bc7bac9.jpg
+The Loney | £23.40 | ../../../../media/cache/6d/10/6d10387a0175701d4ff456a0c7eee67b.jpg
+Pet Sematary | £10.56 | ../../../../media/cache/7a/72/7a72465b21dbf998323e37b31f9a3f4a.jpg
+Doctor Sleep (The Shining ... | £40.12 | ../../../../media/cache/55/bf/55bfc858c1cb19867e41415532ae43c6.jpg
+Psycho: Sanitarium (Psycho #1.5) | £36.97 | ../../../../media/cache/02/5c/025c30a378e2a4190e84f1429e81b803.jpg
+Can You Keep a ... | £48.64 | ../../../../media/cache/0b/2f/0b2f432cc27132f688fcdf29618521e0.jpg
+Red Dragon (Hannibal Lecter ... | £23.37 | ../../../../media/cache/30/66/3066f8bcd2e2ed6b45084355ff084a61.jpg
+Dracula the Un-Dead | £35.63 | ../../../../media/cache/13/ff/13fffcde653948339d3427184b7bd0b5.jpg
+Night Shift (Night Shift ... | £12.75 | ../../../../media/cache/c0/02/c0029d48c2588e6d2a6a31c9f96088ba.jpg
+Needful Things | £47.51 | ../../../../media/cache/2d/e0/2de0eff716ca13d12cf5420e88e1a8b3.jpg
+Misery | £34.79 | ../../../../media/cache/7c/93/7c9302e392e128881e926d19f761da33.jpg
+It | £25.01 | ../../../../media/cache/f7/b7/f7b73392b12909a1e8261ef3f96c5fd1.jpg
+'Salem's Lot | £49.56 | ../../../../media/cache/ee/d3/eed3afc5e444e3da5eec34e2b0036ec7.jpg
+The Stand | £57.86 | ../../../../media/cache/3a/7c/3a7c2393061031e7911d7b533b723391.jpg
+The Girl with All ... | £49.47 | ../../../../media/cache/41/c7/41c74d82b853606fe98182c417b4669c.jpg
+House of Leaves | £54.89 | ../../../../media/cache/14/25/142563ccee483bc07632f9c083a68326.jpg
+********************************
+    Thriller | 
+     Books to Scrape - Sandbox
+
+**************************
+In Her Wake | £12.84 | ../../../../media/cache/5d/72/5d72709c6a7a9584a4d1cf07648bfce1.jpg
+The Elephant Tree | £23.82 | ../../../../media/cache/5d/7e/5d7ecde8e81513eba8a64c9fe000744b.jpg
+Behind Closed Doors | £52.22 | ../../../../media/cache/e1/5c/e15c289ba58cea38519e1281e859f0c1.jpg
+You (You #1) | £43.61 | ../../../../media/cache/d6/97/d697268540fa982f4dce39f61ed3a342.jpg
+The Guilty (Will Robie ... | £13.82 | ../../../../media/cache/76/de/76deee06ffe45e646c0113af01f4f401.jpg
+The 14th Colony (Cotton ... | £39.24 | ../../../../media/cache/d9/1a/d91aae72af6c1cb2c63163acabe7895c.jpg
+Give It Back | £18.32 | ../../../../media/cache/8b/7c/8b7c73e075cc687b6890dc0dca9fcbcc.jpg
+Killing Floor (Jack Reacher ... | £31.49 | ../../../../media/cache/eb/e9/ebe9f06ccebf83d9853a846052b58fff.jpg
+The Bone Hunters (Lexy ... | £59.71 | ../../../../media/cache/ee/d4/eed4d5d63d13f0aa86575c90f8ccacb7.jpg
+Far From True (Promise ... | £34.93 | ../../../../media/cache/87/54/8754267f27581996f93e8d94d3c04bf9.jpg
+The Travelers | £15.77 | ../../../../media/cache/2a/a8/2aa8afd15f97617ab75f616766161cda.jpg
+********************************
+    Biography | 
+     Books to Scrape - Sandbox
+
+**************************
+Louisa: The Extraordinary Life ... | £16.85 | ../../../../media/cache/6f/d9/6fd92e5143cbd5bb8bcf034e5f007dde.jpg
+Setting the World on ... | £21.15 | ../../../../media/cache/8b/c4/8bc43a6b42d0283ab4bf611f1b497126.jpg
+The Faith of Christopher ... | £39.55 | ../../../../media/cache/cc/a4/cca4e6a4cd5c207e7ce7d992ff464c3b.jpg
+Benjamin Franklin: An American ... | £48.19 | ../../../../media/cache/25/f8/25f869fa75340fca0fc2a68e8a0412a1.jpg
+The Rise of Theodore ... | £42.57 | ../../../../media/cache/ff/d4/ffd45d95f314555e20c923d3522adea7.jpg
 ********************************
     Food and Drink | 
      Books to Scrape - Sandbox
@@ -352,22 +427,6 @@ Cravings: Recipes for What ... | £20.50 | ../../../../media/cache/ae/5c/ae5ca435
 The Moosewood Cookbook: Recipes ... | £12.34 | ../../../../media/cache/d4/53/d453cfb6c08dbf76d200ffa858bc9979.jpg
 32 Yolks | £53.63 | ../../../../media/cache/1d/1f/1d1fbd89f0290275b9166877663ee9f5.jpg
 Naturally Lean: 125 Nourishing ... | £11.38 | ../../../../media/cache/e6/b6/e6b66353f9325518994dd8b564290fd7.jpg
-********************************
-    Thriller | 
-     Books to Scrape - Sandbox
-
-**************************
-In Her Wake | £12.84 | ../../../../media/cache/5d/72/5d72709c6a7a9584a4d1cf07648bfce1.jpg
-The Elephant Tree | £23.82 | ../../../../media/cache/5d/7e/5d7ecde8e81513eba8a64c9fe000744b.jpg
-Behind Closed Doors | £52.22 | ../../../../media/cache/e1/5c/e15c289ba58cea38519e1281e859f0c1.jpg
-You (You #1) | £43.61 | ../../../../media/cache/d6/97/d697268540fa982f4dce39f61ed3a342.jpg
-The Guilty (Will Robie ... | £13.82 | ../../../../media/cache/76/de/76deee06ffe45e646c0113af01f4f401.jpg
-The 14th Colony (Cotton ... | £39.24 | ../../../../media/cache/d9/1a/d91aae72af6c1cb2c63163acabe7895c.jpg
-Give It Back | £18.32 | ../../../../media/cache/8b/7c/8b7c73e075cc687b6890dc0dca9fcbcc.jpg
-Killing Floor (Jack Reacher ... | £31.49 | ../../../../media/cache/eb/e9/ebe9f06ccebf83d9853a846052b58fff.jpg
-The Bone Hunters (Lexy ... | £59.71 | ../../../../media/cache/ee/d4/eed4d5d63d13f0aa86575c90f8ccacb7.jpg
-Far From True (Promise ... | £34.93 | ../../../../media/cache/87/54/8754267f27581996f93e8d94d3c04bf9.jpg
-The Travelers | £15.77 | ../../../../media/cache/2a/a8/2aa8afd15f97617ab75f616766161cda.jpg
 ********************************
     Contemporary | 
      Books to Scrape - Sandbox
@@ -404,58 +463,47 @@ Overload: How to Unplug, ... | £52.15 | ../../../../media/cache/9c/da/9cda4893c7
 You Are a Badass: ... | £12.08 | ../../../../media/cache/9e/15/9e15d7add5090ff2a17bd71ac96aa55a.jpg
 How to Stop Worrying ... | £46.49 | ../../../../media/cache/4f/08/4f08f7948770912e4e340e10caa604cb.jpg
 ********************************
-    Biography | 
+    Suspense | 
      Books to Scrape - Sandbox
 
 **************************
-Louisa: The Extraordinary Life ... | £16.85 | ../../../../media/cache/6f/d9/6fd92e5143cbd5bb8bcf034e5f007dde.jpg
-Setting the World on ... | £21.15 | ../../../../media/cache/8b/c4/8bc43a6b42d0283ab4bf611f1b497126.jpg
-The Faith of Christopher ... | £39.55 | ../../../../media/cache/cc/a4/cca4e6a4cd5c207e7ce7d992ff464c3b.jpg
-Benjamin Franklin: An American ... | £48.19 | ../../../../media/cache/25/f8/25f869fa75340fca0fc2a68e8a0412a1.jpg
-The Rise of Theodore ... | £42.57 | ../../../../media/cache/ff/d4/ffd45d95f314555e20c923d3522adea7.jpg
+Silence in the Dark ... | £58.33 | ../../../../media/cache/bb/1c/bb1c91883579f1f99fe6ebf13b92c1c1.jpg
 ********************************
-    Horror | 
+    Historical | 
      Books to Scrape - Sandbox
 
 **************************
-Security | £39.25 | ../../../../media/cache/da/df/dadfac66a89774b46b10225362724c83.jpg
-Follow You Home | £21.36 | ../../../../media/cache/a7/4b/a74b35375ce874153fd352e33bc7bac9.jpg
-The Loney | £23.40 | ../../../../media/cache/6d/10/6d10387a0175701d4ff456a0c7eee67b.jpg
-Pet Sematary | £10.56 | ../../../../media/cache/7a/72/7a72465b21dbf998323e37b31f9a3f4a.jpg
-Doctor Sleep (The Shining ... | £40.12 | ../../../../media/cache/55/bf/55bfc858c1cb19867e41415532ae43c6.jpg
-Psycho: Sanitarium (Psycho #1.5) | £36.97 | ../../../../media/cache/02/5c/025c30a378e2a4190e84f1429e81b803.jpg
-Can You Keep a ... | £48.64 | ../../../../media/cache/0b/2f/0b2f432cc27132f688fcdf29618521e0.jpg
-Red Dragon (Hannibal Lecter ... | £23.37 | ../../../../media/cache/30/66/3066f8bcd2e2ed6b45084355ff084a61.jpg
-Dracula the Un-Dead | £35.63 | ../../../../media/cache/13/ff/13fffcde653948339d3427184b7bd0b5.jpg
-Night Shift (Night Shift ... | £12.75 | ../../../../media/cache/c0/02/c0029d48c2588e6d2a6a31c9f96088ba.jpg
-Needful Things | £47.51 | ../../../../media/cache/2d/e0/2de0eff716ca13d12cf5420e88e1a8b3.jpg
-Misery | £34.79 | ../../../../media/cache/7c/93/7c9302e392e128881e926d19f761da33.jpg
-It | £25.01 | ../../../../media/cache/f7/b7/f7b73392b12909a1e8261ef3f96c5fd1.jpg
-'Salem's Lot | £49.56 | ../../../../media/cache/ee/d3/eed3afc5e444e3da5eec34e2b0036ec7.jpg
-The Stand | £57.86 | ../../../../media/cache/3a/7c/3a7c2393061031e7911d7b533b723391.jpg
-The Girl with All ... | £49.47 | ../../../../media/cache/41/c7/41c74d82b853606fe98182c417b4669c.jpg
-House of Leaves | £54.89 | ../../../../media/cache/14/25/142563ccee483bc07632f9c083a68326.jpg
+All the Light We ... | £29.87 | ../../../../media/cache/41/c3/41c37f7f0e03ee1144dd6fa89483b5d9.jpg
+The Girl You Left ... | £15.79 | ../../../../media/cache/d0/b6/d0b6d59c0662dcbd15d47add40af1ebd.jpg
 ********************************
-    Science Fiction | 
+    Christian | 
      Books to Scrape - Sandbox
 
 **************************
-Mesaerion: The Best Science ... | £37.59 | ../../../../media/cache/09/a3/09a3aef48557576e1a85ba7efea8ecb7.jpg
-Join | £35.67 | ../../../../media/cache/93/63/9363f0065fbad5689f44fcf6e203eef3.jpg
-William Shakespeare's Star Wars: ... | £43.30 | ../../../../media/cache/02/37/0237b445efc18c5562355a5a2c40889c.jpg
-The Project | £10.65 | ../../../../media/cache/10/6e/106e2fc7160712edf8e2ff996dc8cd6c.jpg
-Soft Apocalypse | £26.12 | ../../../../media/cache/f0/06/f0060c756556b855184fa32f66280961.jpg
-Sleeping Giants (Themis Files ... | £48.74 | ../../../../media/cache/c0/72/c072c1ef144d571abd25fe9cc18cceba.jpg
-Arena | £21.36 | ../../../../media/cache/51/88/518810d182843244a404f2a2a614a93b.jpg
-Foundation (Foundation (Publication Order) ... | £32.42 | ../../../../media/cache/8b/92/8b9267df86378b6973974ae7e1924ffe.jpg
-The Restaurant at the ... | £10.92 | ../../../../media/cache/b8/b2/b8b2956acc758a381beef87339c0a52f.jpg
-Ready Player One | £19.07 | ../../../../media/cache/51/34/513418bd1c6114f3ea1fd703278e20ef.jpg
-Life, the Universe and ... | £33.26 | ../../../../media/cache/ef/8b/ef8bc5adcd3bea8e8ba97be76d07a32a.jpg
-Dune (Dune #1) | £54.86 | ../../../../media/cache/7a/bc/7abccb865ecf9b0f676800b10c71cfd6.jpg
-Do Androids Dream of ... | £51.48 | ../../../../media/cache/fa/65/fa653fbe3a4c69227c9b79d471cee576.jpg
-Three Wishes (River of ... | £44.18 | ../../../../media/cache/c7/21/c721943edf481cad5ab32505e2ad3865.jpg
-The Last Girl (The ... | £36.26 | ../../../../media/cache/da/47/da4746e620f8ccd7cf20628d1a5e535a.jpg
-Having the Barbarian's Baby ... | £34.96 | ../../../../media/cache/f4/83/f4835e9f3fdd8b8107bbb39a391654f0.jpg
+(Un)Qualified: How God Uses ... | £54.00 | ../../../../media/cache/cd/db/cddb3eb483ef11a088d519205b7098fb.jpg
+Crazy Love: Overwhelmed by ... | £47.72 | ../../../../media/cache/03/f1/03f1e337afadba35687672b5625a9757.jpg
+Blue Like Jazz: Nonreligious ... | £25.77 | ../../../../media/cache/a2/f5/a2f5b5fd4421d56d37c73a7fb29f5f40.jpg
+********************************
+    Health | 
+     Books to Scrape - Sandbox
+
+**************************
+The Bulletproof Diet: Lose ... | £49.05 | ../../../../media/cache/ee/3e/ee3e219d23e73ba71c79b700f183aaed.jpg
+Eat Fat, Get Thin | £54.07 | ../../../../media/cache/62/3f/623f8e7f7432ce744f4318aae8166ce4.jpg
+10-Day Green Smoothie Cleanse: ... | £49.71 | ../../../../media/cache/23/c2/23c2108ae81327c7f3fb0721976cba5e.jpg
+The Art and Science ... | £52.98 | ../../../../media/cache/4b/d4/4bd43108fb070ad8ebba9cdb00b14069.jpg
+********************************
+    Cultural | 
+     Books to Scrape - Sandbox
+
+**************************
+Amid the Chaos | £36.58 | ../../../../media/cache/52/46/524655fade1d9fe1475395a3eaff827a.jpg
+********************************
+    Erotica | 
+     Books to Scrape - Sandbox
+
+**************************
+Dark Notes | £19.19 | ../../../../media/cache/6e/4e/6e4e8f4f4abd94356a9be840e4681e65.jpg
 ********************************
     Young Adult | 
      Books to Scrape - Sandbox
@@ -482,36 +530,6 @@ Aristotle and Dante Discover ... | £58.14 | ../../../../media/cache/61/1a/611aba
 The Epidemic (The Program ... | £14.44 | ../../../../media/cache/87/cd/87cd652c35e2a78535c83becae33cff2.jpg
 Stars Above (The Lunar ... | £48.05 | ../../../../media/cache/fd/5b/fd5b14399052ab552e240ed18ab03c6d.jpg
 ********************************
-    Historical | 
-     Books to Scrape - Sandbox
-
-**************************
-All the Light We ... | £29.87 | ../../../../media/cache/41/c3/41c37f7f0e03ee1144dd6fa89483b5d9.jpg
-The Girl You Left ... | £15.79 | ../../../../media/cache/d0/b6/d0b6d59c0662dcbd15d47add40af1ebd.jpg
-********************************
-    Christian | 
-     Books to Scrape - Sandbox
-
-**************************
-(Un)Qualified: How God Uses ... | £54.00 | ../../../../media/cache/cd/db/cddb3eb483ef11a088d519205b7098fb.jpg
-Crazy Love: Overwhelmed by ... | £47.72 | ../../../../media/cache/03/f1/03f1e337afadba35687672b5625a9757.jpg
-Blue Like Jazz: Nonreligious ... | £25.77 | ../../../../media/cache/a2/f5/a2f5b5fd4421d56d37c73a7fb29f5f40.jpg
-********************************
-    Suspense | 
-     Books to Scrape - Sandbox
-
-**************************
-Silence in the Dark ... | £58.33 | ../../../../media/cache/bb/1c/bb1c91883579f1f99fe6ebf13b92c1c1.jpg
-********************************
-    Health | 
-     Books to Scrape - Sandbox
-
-**************************
-The Bulletproof Diet: Lose ... | £49.05 | ../../../../media/cache/ee/3e/ee3e219d23e73ba71c79b700f183aaed.jpg
-Eat Fat, Get Thin | £54.07 | ../../../../media/cache/62/3f/623f8e7f7432ce744f4318aae8166ce4.jpg
-10-Day Green Smoothie Cleanse: ... | £49.71 | ../../../../media/cache/23/c2/23c2108ae81327c7f3fb0721976cba5e.jpg
-The Art and Science ... | £52.98 | ../../../../media/cache/4b/d4/4bd43108fb070ad8ebba9cdb00b14069.jpg
-********************************
     Politics | 
      Books to Scrape - Sandbox
 
@@ -519,21 +537,3 @@ The Art and Science ... | £52.98 | ../../../../media/cache/4b/d4/4bd43108fb070ad
 Libertarianism for Beginners | £51.33 | ../../../../media/cache/0b/bc/0bbcd0a6f4bcd81ccb1049a52736406e.jpg
 Why the Right Went ... | £52.65 | ../../../../media/cache/db/1b/db1babd3c09b84da800b0e9897fe0097.jpg
 Equal Is Unfair: America's ... | £56.86 | ../../../../media/cache/00/11/001153d2a22d889837efac1703e10a5e.jpg
-********************************
-    Cultural | 
-     Books to Scrape - Sandbox
-
-**************************
-Amid the Chaos | £36.58 | ../../../../media/cache/52/46/524655fade1d9fe1475395a3eaff827a.jpg
-********************************
-    Erotica | 
-     Books to Scrape - Sandbox
-
-**************************
-Dark Notes | £19.19 | ../../../../media/cache/6e/4e/6e4e8f4f4abd94356a9be840e4681e65.jpg
-********************************
-    Parenting | 
-     Books to Scrape - Sandbox
-
-**************************
-Catastrophic Happiness: Finding Joy ... | £37.35 | ../../../../media/cache/7d/0b/7d0bb832760e81c281d8d283ba6a2b09.jpg

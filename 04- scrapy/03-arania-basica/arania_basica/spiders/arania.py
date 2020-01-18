@@ -76,11 +76,15 @@ class IntroSpider(scrapy.Spider):
       titulos = etiqueta_contenedora.css('h3 > a::text').extract() #se pueden concatenar las variables de tipo response.css
       precios = etiqueta_contenedora.css('div.product_price> p.price_color::text').extract()
       url_images = etiqueta_contenedora.css('div.image_container a img::attr(src)').extract()
-
+      
+      precios_ = map(lambda precio: precio[1:] ,precios)
+      
+      
       self.insertar_libro(titulos,precios, url_images,genero)
       print(titulos);
       print(precios)
       print(url_images)
+      print(precios_)
   def insertar_libro(self, titulos, precios, url_images,genero):
 
       libros= pd.DataFrame(titulos)
