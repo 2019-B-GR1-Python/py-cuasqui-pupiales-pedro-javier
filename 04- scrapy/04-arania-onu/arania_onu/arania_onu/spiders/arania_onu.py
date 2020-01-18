@@ -11,11 +11,11 @@ class AraniaCrawlOnu(CrawlSpider):
   start_urls= [#Herresado override
     'http://www.un.org/en/sections/about-un/funds-programmes-specialized-agencies-and-others'
   ]
-  # regla_uno = (
-  #   Rule (
-  #     LinkExtractor(),callback='parse_page'
-  #     ),  
-  # )
+  regla_uno = ( #Busca todo
+    Rule (
+      LinkExtractor(),callback='parse_page'
+      ),  
+  )
 
   url_segmento_permitido=('funds-programmes-specialized-agencies-and-others')
   regla_dos=( ##Busca dentro de los dominios
@@ -44,7 +44,7 @@ class AraniaCrawlOnu(CrawlSpider):
 
   )
 
-  rules = regla_tres #Heredado override
+  rules = regla_uno #Heredado override
 
   def parse_page(self, response):
     lista_programas_onu= response.css('div.field-items > div.field-item > h4::text').extract()
