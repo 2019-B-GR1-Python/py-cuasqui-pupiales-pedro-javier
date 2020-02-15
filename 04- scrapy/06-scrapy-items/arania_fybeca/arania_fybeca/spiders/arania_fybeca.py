@@ -26,8 +26,8 @@ class AraniaFybeca (scrapy.Spider):
       detalle = producto.css('div.detail')
       tiene_detalle= len(detalle) >0
       if(tiene_detalle):
-        producto_loader= ItemLoader(item = ProductoFybeca(),selector=producto
-        )
+        # Los ITEMS proporcionan el contenedor de datos SCRAPEADOS, mientras que los cargadores de ITEMS proporcionan el mecanismo para llenar ese contenedor.
+        producto_loader= ItemLoader(item = ProductoFybeca(),selector=producto )
         # Todas las propiedades de la clase van a tener por defecto el defaul_output_procesor
         producto_loader.default_output_processor = TakeFirst()
         #Pasa el nombre d ela propiedad que pasamos en el item, y el selector div.product-tile-inner
