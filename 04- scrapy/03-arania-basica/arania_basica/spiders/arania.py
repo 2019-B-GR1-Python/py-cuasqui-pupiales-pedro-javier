@@ -66,10 +66,15 @@ class IntroSpider(scrapy.Spider):
       for url in self.urls:
         #yield permite esperar hasta que se complete la línea, 
         yield scrapy.Request(url=url)
+        print(f"FIN SCRAPY REQUEST FOR {url}")
+      print("****************************FIN DE LOS REQUEST************************")
+      print("****************************FIN DE LOS REQUEST************************")
+      print("****************************FIN DE LOS REQUEST************************")
   
   #parse: @overide
   #Toma la respuesta de la funcion start_requests() y la permite su procesamiento
-  def parse(self, response):
+  #se ejecuta asincronamente con START_REQUEST, es decir que PARSE va extrayendo los resultados segun START_REQUESt vaya terminando
+  def parse(self, response): 
       genero= response.css('title::text').extract_first();
       print(f"######################## {genero} ####################################");
       etiqueta_contenedora = response.css('article.product_pod');
