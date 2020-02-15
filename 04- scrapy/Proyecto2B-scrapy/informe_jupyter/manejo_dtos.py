@@ -38,7 +38,7 @@ plt.title("Porcentaje de objetos por categoría")
 plt.show()
 
 ################################################################3
-#2
+#2 pendiente
 estado_civil_edad = df_3[["p02","p06"]]
 
 sexo_masc_bol=estado_civil_edad["p02"]=="Hombre"
