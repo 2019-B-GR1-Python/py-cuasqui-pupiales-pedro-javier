@@ -9,7 +9,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import json
-
+from collections import Counter #Fuente https://stackoverflow.com/questions/29903025/count-most-frequent-100-words-from-sentences-in-dataframe-pandas
 
 
 #CARGA DE DATOS
@@ -76,7 +76,7 @@ ax.set_title('Precios máxmos por cada categoría')
 plt.show()
 ###################################################################3
 #4) GRAFICO DE BARRAS: PALABRAS MAS FRECUENTES EN LOS TITULOS
-from collections import Counter #Fuente https://stackoverflow.com/questions/29903025/count-most-frequent-100-words-from-sentences-in-dataframe-pandas
+
 fp = Counter(" ".join(df_3["titulo"]).split()).most_common(50)
 frec_pal_1= pd.DataFrame(fp)
 frec_pal_1[0]
